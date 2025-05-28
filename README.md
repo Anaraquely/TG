@@ -181,11 +181,11 @@
 
 <h4> 3º Semestre • <a href="https://github.com/iNineBD/GeoTrack-4Sem2024Main">Repositório Github</a></h4>
 
-<p align="justify"> Empresa Parceira • <a href="https://www.domrock.net/">DOM ROCK</a></p>
+<p align="justify"> Empresa Parceira • <a href="https://www.domrock.net/">ITO1</a></p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385" widht="20%"></img>
 
-<p align="justify">O sistema DataFlow é uma aplicação web desenvolvida para otimizar a configuração de fontes de dados em pipelines de processamento de dados em cascata. Esse sistema permite que clientes e usuários autorizados configurem dados de forma intuitiva, utilizando interfaces para cadastro de clientes, upload de dados e mapeamento de chaves de identificação, além de aplicar regras de negócios comuns. Com um dashboard analítico completo, o DataFlow proporciona uma visão detalhada das configurações realizadas, facilitando a gestão e reduzindo a dependência de técnicos especializados.</p>
+<p align="justify">O sistema Geotrack é uma aplicação web desenvolvida para automatizar o gerenciamento e a configuração de dados de geolocalização. Essa solução permitirá à empresa agilizar a implementação das operações, garantindo a integridade, a consistência e a segurança das informações, reduzindo a necessidade de intervenção de técnicos especializados. Como resultado, a empresa otimizará o monitoramento e o rastreamento em tempo real, tornando as operações mais ágeis e eficientes.</p>
 
 <details>
 
