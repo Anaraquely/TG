@@ -2,10 +2,19 @@
 
 
 <p align="justify">
-  Sou Ana Raquel, tenho 20 anos e sou estudante de Banco de dados apaixonada em adquirir conhecimento de dados e novas tecnologias. Meu objetivo é crescer como pessoa e profissional, sempre guiado por valores como respeito, empatia e determinação.
+Meu nome é Ana Raquel, tenho 20 anos e sou estudante do 5° semestre do curso de Banco de Dados na FATEC de São José dos Campos - Prof. Jessen Vidal. Optei por estudar nesta instituição por reconhecê-la como referência na área de tecnologia e por valorizar seus métodos de ensino, que preparam os alunos de forma eficiente para o mercado de trabalho.
+</p>
+<p align="justify">
+Em relação à minha escolha profissional, acredito que a área de dados, dentro do cenário de Tecnologia da Informação, está em constante expansão, oferecendo diversas oportunidades de atuação. Essa versatilidade é um dos fatores que mais me atraem, pois alinha-se aos meus objetivos para o início da carreira.
+<p align="justify">
+</p>
+Atualmente, atuo como estagiária na Dom Rock, empresa com a qual tive a oportunidade de colaborar em um dos projeto acadêmico que desenvolvemos durante  semetre. Essa experiência proporcionou visibilidade e foi determinante para minha seleção no processo de estágio.
+<p align="justify">
+Anteriormente, trabalhei como assistente e supervisora no setor de digitação de uma empresa do ramo industrial. Nessa posição, pude desenvolver e aprimorar minhas _soft skills_, especialmente liderança, empatia, organização e comunicação, competências que me tornam uma profissional apta a trabalhar de forma colaborativa em equipe.
 </p>
 
 ## Contatos:
+
   <a href="https://www.linkedin.com/in/anasasaki/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="mailto:anaraquelysmachado29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/Anaraquely"><img src="https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -179,11 +188,11 @@
 
 <div align="center"><h1 style="color: blue;">GeoTrack</h1></div>
 
-<h4> 3º Semestre • <a href="https://github.com/iNineBD/GeoTrack-4Sem2024Main">Repositório Github</a></h4>
+<h4> 4º Semestre • <a href="https://github.com/iNineBD/GeoTrack-4Sem2024Main">Repositório Github</a></h4>
 
-<p align="justify"> Empresa Parceira • <a href="https://www.domrock.net/">ITO1</a></p>
+<p align="justify"> Empresa Parceira • ITO1</a></p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385" widht="20%"></img>
+<p align="center"><img src="https://github.com/user-attachments/assets/722f46e1-0b96-49f3-a6b3-40c3d9d515bb" widht="20%"></img>
 
 <p align="justify">O sistema Geotrack é uma aplicação web desenvolvida para automatizar o gerenciamento e a configuração de dados de geolocalização. Essa solução permitirá à empresa agilizar a implementação das operações, garantindo a integridade, a consistência e a segurança das informações, reduzindo a necessidade de intervenção de técnicos especializados. Como resultado, a empresa otimizará o monitoramento e o rastreamento em tempo real, tornando as operações mais ágeis e eficientes.</p>
 
@@ -194,11 +203,10 @@
   <h2>Objetivo</h2>
 
 #### Após a finalização do projeto pela equipe iNine:
-* O sistema permitirá o cadastro e gestão de clientes, soluções e usuários autorizados a configurar os dados.
-* O usuário poderá realizar upload de dados com visualização e validação da estrutura dos dados, incluindo campos, tipos e regras de negócios.
-* O usuário poderá aplicar regras de negócios, como mapeamento “de/para”, facilitando a padronização dos dados.
-* O sistema disponibilizará um dashboard analítico que permitirá uma visão quantitativa e completa das configurações realizadas.
-* O usuário poderá acompanhar e gerenciar a configuração completa dos dados através de uma interface analítica, proporcionando uma visão detalhada e consolidada de todo o processo.
+* O sistema permitirá mapear através de rotas a geolocalização de um ou mais usuarios em determinados locais e periodos, conforme dados presentes no banco. 
+* O sistema permitirá mapear através de pontos de parada a geolocalização dos usuarios em determinados locais e periodos, conforme dados presentes no banco. 
+* O usuário poderá cadastrar áreas padrões.
+* O usuário poderá analisar quais pessoas ja passaram por uma zona cadastrada;
 
 <br>
 
@@ -230,6 +238,8 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
 <br>
 <br>
