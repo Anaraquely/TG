@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4169E1&text=Portifólio%20API&section=header&textBg=false&fontAlign=50">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=4169E1&text=Portfólio%20API&section=header&textBg=false&fontAlign=50">
 
 
 <p align="justify">
@@ -213,33 +213,17 @@ Anteriormente, trabalhei como assistente e supervisora no setor de digitação d
 <h2>Tecnologias Utilizadas no Projeto</h2>
 <p align="justify"><strong>Java JDK 21.0.2:</strong> linguagem utilizada para desenvolvimento do backend.</p>
 <p align="justify"><strong>Spring Boot 3.3.2:</strong> framework utilizado para desenvolvimento do backend.</p>
-<p align="justify"><strong>MySQL:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
-<p align="justify"><strong>HTML5:</strong> linguagem de marcação utilizada para o desenvolvimento do frontend.</p>
-<p align="justify"><strong>CSS3:</strong> linguagem de estilização utilizada para o desenvolvimento do frontend.</p>
-<p align="justify"><strong>JavaScript:</strong> linguagem utilizada para desenvolvimento do frontend.</p>
 <p align="justify"><strong>Vue.js 2.6.12:</strong> framework utilizado para desenvolvimenton do frontend.</p>
-<p align="justify"><strong>ClickUp:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
-<p align="justify"><strong>Figma:</strong> ferramenta utilizada para prototipar as telas.</p>
+<p align="justify"><strong>YouTrack:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
 <p align="justify"><strong>IntelliJ IDEA:</strong> IDE utilizada para o desenvolvimento backend dos códigos da aplicação.</p>
 <p align="justify"><strong>Visual Studio Code:</strong> IDE utilizada para o desenvolvimento frontend dos códigos da aplicação.</p>
-<p align="justify"><strong>Postman:</strong> ferramenta utilizada para criar, compartilhar, testar e documentar APIs.</p>
-<p align="justify"><strong>Slack:</strong> plataforma de comunicação para equipes, que centraliza mensagens, chamadas e integrações com outras ferramentas.</p>
 
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-<img src="https://img.shields.io/badge/clickup-%237B68EE.svg?&style=for-the-badge&logo=clickup&logoColor=white">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 <br>
