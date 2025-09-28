@@ -121,16 +121,6 @@ Este projeto representou meu primeiro contato com a programação e com todo ess
   <h2>Link do repositório no Github</h2>
 
 <a href="https://github.com/iNineBD/Aval360-1Sem2023">Repositório Github</a></h4>
-
-  <!-- <h2>Objetivo</h2>
-
-#### Após a finalização do projeto pela equipe iNine:
-* O sistema permitirá o cadastro e gestão de clientes, soluções e usuários autorizados a configurar os dados.
-* O usuário poderá realizar upload de dados com visualização e validação da estrutura dos dados, incluindo campos, tipos e regras de negócios.
-* O usuário poderá aplicar regras de negócios, como mapeamento “de/para”, facilitando a padronização dos dados.
-* O sistema disponibilizará um dashboard analítico que permitirá uma visão quantitativa e completa das configurações realizadas.
-* O usuário poderá acompanhar e gerenciar a configuração completa dos dados através de uma interface analítica, proporcionando uma visão detalhada e consolidada de todo o processo. -->
-
 </details>
 
 <br>
@@ -140,105 +130,106 @@ Este projeto representou meu primeiro contato com a programação e com todo ess
 <div align="center"><h1 style="color: blue;">Sistema Gerenciador de TGs - 2º Semestre 2023/2</h1></div>
 
 <p align="justify"> Empresa Parceira - <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC / INTERNO</a></p>
-Srum Master - Fabiano Sabha Walckak</p> 
+Srum Master - Giuliano Bertoti</p> 
 Product Owner - Emanuel Mineda</p> 
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385" widht="20%"></img>
 
-<p align="justify">O sistema DataFlow é uma aplicação web desenvolvida para otimizar a configuração de fontes de dados em pipelines de processamento de dados em cascata. Esse sistema permite que clientes e usuários autorizados configurem dados de forma intuitiva, utilizando interfaces para cadastro de clientes, upload de dados e mapeamento de chaves de identificação, além de aplicar regras de negócios comuns. Com um dashboard analítico completo, o DataFlow proporciona uma visão detalhada das configurações realizadas, facilitando a gestão e reduzindo a dependência de técnicos especializados.</p>
-<!-- 
+
+
 <details>
 
-  <summary align="center">VER MAIS DETALHES</summary> -->
+  <summary align="center">VER MAIS DETALHES</summary>
   
-  <h2>Objetivo</h2>
+  <h2>Problema</h2>
 
-#### Após a finalização do projeto pela equipe iNine:
-* O sistema permitirá o cadastro e gestão de clientes, soluções e usuários autorizados a configurar os dados.
-* O usuário poderá realizar upload de dados com visualização e validação da estrutura dos dados, incluindo campos, tipos e regras de negócios.
-* O usuário poderá aplicar regras de negócios, como mapeamento “de/para”, facilitando a padronização dos dados.
-* O sistema disponibilizará um dashboard analítico que permitirá uma visão quantitativa e completa das configurações realizadas.
-* O usuário poderá acompanhar e gerenciar a configuração completa dos dados através de uma interface analítica, proporcionando uma visão detalhada e consolidada de todo o processo.
+Na FATEC, durante os dois últimos semestres, os alunos precisam desenvolver e entregar seus trabalhos de graduação. Porém, devido ao grande número de estudantes, o processo de gerenciamento das entregas e resultados costuma ser lento, manual e pouco eficiente, o que aumenta as chances de desorganização.
 
 <br>
+  <h2>Solução</h2>
+
+Para resolver esse desafio, desenvolvemos uma aplicação desktop voltada ao gerenciamento das etapas e notas dos alunos. O sistema conta com uma interface simples e intuitiva, além de funcionalidades que tornam o acompanhamento mais prático, ágil e organizado.
+<br>
+
 
 <h2>Tecnologias Utilizadas no Projeto</h2>
-<p align="justify"><strong>Python:</strong> linguagem principal utilizada para o desenvolvimento da aplicação.</p> 
-<p align="justify"><strong>JSON:</strong> adotado para o registro e armazenamento estruturado dos dados.</p> 
-<p align="justify"><strong>Excel:</strong> empregado na realização da avaliação 360° interna e na geração do burndown chart.</p>
-<p align="justify"><strong>Teams:</strong> utilizado para o armazenamento e compartilhamento das documentações do projeto.</p> 
-<p align="justify"><strong>Canva:</strong> ferramenta aplicada na criação das apresentações e na identidade visual (logo) do projeto.</p> 
+<p align="justify"><strong>Java 17:</strong> Linguagem principal utilizada para o desenvolvimento da aplicação.</p> 
+<p align="justify"><strong>MySQL:</strong> Sistema de banco de dados utilizados para armazenamento e gestão.</p> 
+<p align="justify"><strong>Excel:</strong> Empregado na realização da avaliação 360° interna e na geração do burndown chart.</p>
+<p align="justify"><strong>Figma:</strong> ferramenta utilizada no desenvolvimento da prototipação das telas.</p> 
 <p align="justify"><strong>Git:</strong> sistema de controle de versão distribuído para rastreamento de alterações no código.</p> 
 <p align="justify"><strong>GitHub:</strong> plataforma utilizada para hospedagem e versionamento do código-fonte.</p> 
-<p align="justify"><strong>Visual Studio Code:</strong> IDE utilizada para o desenvolvimento da aplicação.</p> 
-<p align="justify"><strong>Postman:</strong> ferramenta empregada para criação, teste, documentação e compartilhamento de APIs.</p> 
+<p align="justify"><strong>Eclipse:</strong> IDE utilizada para o desenvolvimento da aplicação.</p> 
+<p align="justify"><strong>ClickUp:</strong> Plataforma para gestão do sprint backlog da equipe.</p> 
 <p align="justify"><strong>Discord:</strong> plataforma utilizada para comunicação da equipe, centralizando mensagens e chamadas.</p>
+<p align="justify"><strong>Scene Builder:</strong> ferramenta utlizada para desenvolvimento das interfaces visuais da aplicação.</p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft_Teams-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Monday](https://img.shields.io/badge/Monday-F9DC3e?style=for-the-badge&logo=monday&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Scene Builder](https://img.shields.io/badge/scene_builder-orange.svg?style=for-the-badge&logo=&logoColor=orange)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 <br>
 
 <h2>Minhas Contribuições</h2>
 
-  Atuei como desenvolvedora no projeto, sendo responsável pela implementação de funcionalidades essenciais para o funcionamento da aplicação. Entre elas, destaco a leitura e manipulação dos arquivos JSON utilizados como armazenamento, a estruturação do JSON responsável pelo registro das sprints, bem como o desenvolvimento das funções de exclusão e controle dessas sprints. Além disso, fui responsável pela construção dos dashboards para apresentação dos resultados das avaliações e pela implementação da geração de feedbacks individuais para os colaboradores avaliados. 
+Atuei como desenvolvedora no projeto, contribuindo em diferentes etapas do sistema. Fui responsável pela implementação do tratamento de erros durante o cadastro das entregas realizadas pelos alunos, garantindo maior confiabilidade no processo. Além disso, desenvolvi a interface e a lógica para o módulo de feedbacks, permitindo que professores registrassem observações e retornos de forma organizada e acessível aos estudantes. Também participei da construção dos relatórios de notas, que possibilitam uma visualização clara e estruturada do desempenho dos alunos ao longo das etapas.
 
 ### **Hard Skills**
 
   Exercitei algumas hard skills durante esse projeto:
-  - Python - Sei fazer com ajuda 
-  - JSON - Sei fazer com ajuda 
+  - Java - Sei fazer com ajuda 
+  - JavaFX - Sei fazer com ajuda 
   - Git - Sei fazer com ajuda 
   - Github - Sei fazer com ajuda
+  - Scene Builder - Sei fazer com ajuda
+  - MySQL - Sei fazer com ajuda
 
 
 ### **Soft Skills**
-Este projeto representou meu primeiro contato com a programação e com todo esse universo. Além do desenvolvimento técnico inicial, foi uma oportunidade valiosa para aprimorar minhas soft skills, como trabalho em equipe, comunicação clara e iniciativa para explorar o que ainda era desconhecido para mim. Nesse processo, aprendi a ser uma boa ouvinte e, mesmo sem pleno domínio técnico, a contribuir com ideias e sugestões relevantes. Assim como eu, muitos dos meus colegas também estavam em sua primeira experiência com programação, e sempre que possível, me coloquei à disposição para apoiá-los.
+Durante o projeto, fui apresentada a uma nova linguagem de programação, o que me permitiu desenvolver ainda mais minha capacidade analítica ao adaptar conhecimentos prévios a um novo contexto. Além do aprendizado técnico, também pude fortalecer minhas habilidades interpessoais, buscando sempre ser uma colaboradora proativa, comunicativa e curiosa. Esse projeto foi uma oportunidade valiosa para aprimorar meu trabalho em equipe e evoluir essas minhas habilidades em um ambiente colaborativo.
 
+
+  <h2>Link do repositório no Github</h2>
+
+<a href="https://github.com/iNineBD/SGTG-2Sem2023">Repositório Github</a></h4>
+</details>
 
 <br>
 
 <br>
 
-<div align="center"><h1 style="color: blue;">DataFlow</h1></div>
-
-<h4> 3º Semestre • <a href="https://github.com/iNineBD/SGTG-2Sem2023">Repositório Github</a></h4>
+<div align="center"><h1 style="color: blue;">DataFlow - 3° Semestre 2024/1</h1></div>
 
 <p align="justify"> Empresa Parceira • <a href="https://www.domrock.net/">DOM ROCK</a></p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385" widht="20%"></img>
 
-<p align="justify">O sistema DataFlow é uma aplicação web desenvolvida para otimizar a configuração de fontes de dados em pipelines de processamento de dados em cascata. Esse sistema permite que clientes e usuários autorizados configurem dados de forma intuitiva, utilizando interfaces para cadastro de clientes, upload de dados e mapeamento de chaves de identificação, além de aplicar regras de negócios comuns. Com um dashboard analítico completo, o DataFlow proporciona uma visão detalhada das configurações realizadas, facilitando a gestão e reduzindo a dependência de técnicos especializados.</p>
-
 <details>
 
   <summary align="center">VER MAIS DETALHES</summary>
   
-  <h2>Objetivo</h2>
+  <h2>Problema</h2>
 
-#### Após a finalização do projeto pela equipe iNine:
-* O sistema permitirá o cadastro e gestão de clientes, soluções e usuários autorizados a configurar os dados.
-* O usuário poderá realizar upload de dados com visualização e validação da estrutura dos dados, incluindo campos, tipos e regras de negócios.
-* O usuário poderá aplicar regras de negócios, como mapeamento “de/para”, facilitando a padronização dos dados.
-* O sistema disponibilizará um dashboard analítico que permitirá uma visão quantitativa e completa das configurações realizadas.
-* O usuário poderá acompanhar e gerenciar a configuração completa dos dados através de uma interface analítica, proporcionando uma visão detalhada e consolidada de todo o processo.
+<p align="justify">A Dom Rock possui uma pipeline para o processamento de dados em cascata, que consiste em vários estágios. Este sistema consiste em vários estágios que são coordenados automaticamente com base nas características das fontes de dados e nas necessidades dos clientes em termos de algoritmos de IA ou modelos matemáticos. Na metodologia de implementação do sistema, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. No entanto, a configuração manual das fontes de dados é feita manualmente, sendo um ponto crítico que consome muito tempo dos técnicos e cria uma dependência excessiva de especialistas para realizar tal tarefa.</p>
+<br>
 
+  <h2>Solução</h2>
+
+<p align="justify">O sistema DataFlow é uma aplicação web desenvolvida para otimizar a configuração de fontes de dados em pipelines de processamento de dados em cascata. Esse sistema permite que clientes e usuários autorizados configurem dados de forma intuitiva, utilizando interfaces para cadastro de clientes, upload de dados e mapeamento de chaves de identificação, além de aplicar regras de negócios comuns. Com um dashboard analítico completo, o DataFlow proporciona uma visão detalhada das configurações realizadas, facilitando a gestão e reduzindo a dependência de técnicos especializados.</p>
 <br>
 
 <h2>Tecnologias Utilizadas no Projeto</h2>
-<p align="justify"><strong>Java JDK 21.0.2:</strong> linguagem utilizada para desenvolvimento do backend.</p>
-<p align="justify"><strong>Spring Boot 3.3.2:</strong> framework utilizado para desenvolvimento do backend.</p>
+<p align="justify"><strong>Java:</strong> linguagem utilizada para desenvolvimento do backend.</p>
+<p align="justify"><strong>Spring Boot:</strong> framework utilizado para desenvolvimento do backend.</p>
 <p align="justify"><strong>MySQL:</strong> SGBD para desenvolvimento do Banco de Dados.</p>
 <p align="justify"><strong>HTML5:</strong> linguagem de marcação utilizada para o desenvolvimento do frontend.</p>
 <p align="justify"><strong>CSS3:</strong> linguagem de estilização utilizada para o desenvolvimento do frontend.</p>
@@ -270,102 +261,41 @@ Este projeto representou meu primeiro contato com a programação e com todo ess
 
 <h2>Minhas Contribuições</h2>
 
- > Contribuí ativamente como desenvolvedor backend, desempenhando um papel crucial na arquitetura e implementação de APIs, gerenciamento de bancos de dados e criação de soluções escaláveis e eficientes. Além disso, assumi o papel de Product Owner, atuando como ponto de comunicação entre o cliente e minha equipe, garantindo que as necessidades do projeto fossem compreendidas e atendidas com eficiência.
+Durante este projeto, atuei como Product Owner e desenvolvedora backend, o que me permitiu unir habilidades técnicas e interpessoais em um ambiente dinâmico e desafiador. Contribuí ativamente para a definição dos requisitos com base nas necessidades da empresa, participei da arquitetura e implementação de APIs, gerenciei o banco de dados e desenvolvi soluções escaláveis e eficientes. Além disso, assumi a responsabilidade de ser o elo de comunicação entre o cliente e a equipe, garantindo que as expectativas fossem bem compreendidas e transformadas em entregas de valor.
 
-### 1. **Query no Banco**
-   - Contribuí Fui responsável pela criação e otimização de queries no banco de dados, garantindo a eficiência na recuperação e manipulação de informações. Desenvolvi scripts SQL para atender às necessidades do sistema, além de implementar soluções para melhorar o desempenho e a integridade dos dados.
-
-
-### 2. **Validação e Autenticação do usuário**
-   - Fui responsável pela implementação da segurança de acesso do sistema, incluindo a validação de usuários e o gerenciamento de permissões, garantindo que apenas usuários autorizados tivessem acesso a informações sensíveis. Desenvolvi mecanismos de autenticação robustos, como validação de credenciais e controle de sessões, assegurando a proteção contra acessos não autorizados. Além disso, implementei políticas de segurança para garantir a integridade e a confidencialidade dos dados, criando um ambiente seguro e confiável para os usuários e para o sistema como um todo.
-
-
-   ### 3. **Visualização do LOG**
-   - Fui responsável pela implementação do módulo de visualização de logs, que registra e exibe de forma mais detalhada a movimentação dos usuários e processos dentro do sistema. Desenvolvi funcionalidades que permitem o monitoramento das ações realizadas, facilitando a auditoria e o rastreamento de eventos críticos. Esse sistema proporcionou uma visão clara e transparente das interações dos usuários, garantindo a integridade operacional e a segurança do ambiente, além de possibilitar uma análise eficiente em caso de incidentes ou necessidade de diagnóstico 
-
+Nesse processo, desenvolvi queries otimizadas no banco de dados, implementei mecanismos de validação e autenticação de usuários para assegurar a segurança do sistema e criei um módulo de visualização de logs, que facilitou o monitoramento de ações e trouxe mais transparência às operações. Cada uma dessas entregas foi também uma oportunidade de aprimorar soft skills fundamentais, como a comunicação clara, a proatividade e a organização, já que o papel de Product Owner exigiu constante alinhamento com diferentes partes interessadas.
 <br>
 
-<h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento desta aplicação, tive a oportunidade de vivenciar todo o ciclo de vida do desenvolvimento de software, desde a gestão ágil do projeto até a implementação eficiente no backend. Trabalhei em equipe de forma colaborativa, e aprendi a importância de proporcionar ao clienet uma excelente experiência de usuário, a partir de interfaces intuitivas e de fácil compreensão. Essa experiência me permitiu aprimorar minhas habilidades em comunicação e colaboração, sempre buscando soluções que atendem às necessidades do usuário final de forma clara e eficaz.</p>
+<h2>Hard Skills</h2>
 
-<h3>Hard Skills</h3>
-  <table>
-    <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>SPRING BOOT</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>MYSQL</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>SLACK</td>
-      <td align="center">★★★★★</td>
-    </tr>
-    <tr>
-    <tr>
-      <td>CLICkUP</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>FIGMA</td>
-      <td align="center">★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>INTELLIJ</td>
-      <td align="center">★★★★☆</td>
-    </tr>
-    <tr>
-      <td>POSTMAN</td>
-      <td align="center">★★★★★</td>
-    </tr>
-  </table>
+  Exercitei algumas hard skills durante esse projeto:
+  - Java - Sei fazer com ajuda 
+  - Spring Boot - Sei fazer com ajuda 
+  - Git - Sei fazer sozinho 
+  - Github - Sei fazer sozinho
+  - ClickUp - Sei fazer sozinho
+  - MySQL - Sei fazer sozinho
+  - Postman - Sei fazer sozinho
+<br>
 
-<h3>Soft Skills </h3>
-  <table>
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Colaboração</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Organização, Planejamento e Entrega</td>
-      <td align="center">★★★★★★</td
-    </tr>
-     <tr>
-      <td>Organização</td>
-      <td align="center">★★★★★★</td
-    </tr>
-         <tr>
-      <td>Entrega</td>
-      <td align="center">★★★★★★</td
-    </tr>
+<h2>Soft Skills</h2>
 
- </table>
+A vivência de todo o ciclo de vida do desenvolvimento de software me ajudou a fortalecer minha capacidade de trabalhar em equipe, a ser resiliente diante de novos desafios e a exercitar a empatia ao compreender as reais necessidades do cliente. Com isso, pude evoluir não apenas como profissional de tecnologia, mas também como colaboradora comprometida em entregar soluções funcionais e que fazem diferença para os usuários.
+<br>
+
+</details>
+
+
+  <h2>Link do repositório no Github</h2>
+
+<a href="https://github.com/iNineBD/DataFlow-3Sem2024?tab=readme-ov-file">Repositório Github</a></h4>
 </details>
 
 <br>
 
-<div align="center"><h1 style="color: blue;">GeoTrack</h1></div>
+<div align="center"><h1 style="color: blue;">GeoTrack - 4° Semestre 2024/2</h1></div>
 
-<h4> 4º Semestre • <a href="https://github.com/iNineBD/GeoTrack-4Sem2024Main">Repositório Github</a></h4>
-
-<p align="justify"> Empresa Parceira • ITO1</a></p>
+<p align="justify"> Empresa Parceira - <a href="https://www.linkedin.com/company/ito1/posts/?feedView=all">ITO1</a></p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/722f46e1-0b96-49f3-a6b3-40c3d9d515bb" widht="20%"></img>
 
@@ -375,20 +305,21 @@ Este projeto representou meu primeiro contato com a programação e com todo ess
 
   <summary align="center">VER MAIS DETALHES</summary>
   
-  <h2>Objetivo</h2>
+  <h2>Problema</h2>
 
-#### Após a finalização do projeto pela equipe iNine:
-* O sistema permitirá mapear através de rotas a geolocalização de um ou mais usuarios em determinados locais e periodos, conforme dados presentes no banco. 
-* O sistema permitirá mapear através de pontos de parada a geolocalização dos usuarios em determinados locais e periodos, conforme dados presentes no banco. 
-* O usuário poderá cadastrar áreas padrões.
-* O usuário poderá analisar quais pessoas ja passaram por uma zona cadastrada;
+A empresa enfrenta o desafio de armazenar e consultar dados de geolocalização em tempo real, continuamente gerados por dispositivos IoT, como wearables, tags e smartphones. Esses dados são essenciais para o monitoramento de pessoas e ativos, exigindo um sistema capaz de gerenciar grandes volumes de informações de forma escalável, confiável e segura.
 
 <br>
 
+  <h2>Solução</h2>
+
+O sistema Geotrack é uma aplicação web desenvolvida para automatizar o gerenciamento e a configuração de dados de geolocalização. Essa solução permitirá à empresa agilizar a implementação das operações, garantindo a integridade, a consistência e a segurança das informações, reduzindo a necessidade de intervenção de técnicos especializados. Como resultado, a empresa otimizará o monitoramento e o rastreamento em tempo real, tornando as operações mais ágeis e eficientes.
+<br>
+
 <h2>Tecnologias Utilizadas no Projeto</h2>
-<p align="justify"><strong>Java JDK 21.0.2:</strong> linguagem utilizada para desenvolvimento do backend.</p>
-<p align="justify"><strong>Spring Boot 3.3.2:</strong> framework utilizado para desenvolvimento do backend.</p>
-<p align="justify"><strong>Vue.js 2.6.12:</strong> framework utilizado para desenvolvimenton do frontend.</p>
+<p align="justify"><strong>Java:</strong> linguagem utilizada para desenvolvimento do backend.</p>
+<p align="justify"><strong>Spring Boot:</strong> framework utilizado para desenvolvimento do backend.</p>
+<p align="justify"><strong>Vue.js:</strong> framework utilizado para desenvolvimenton do frontend.</p>
 <p align="justify"><strong>YouTrack:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
 <p align="justify"><strong>IntelliJ IDEA:</strong> IDE utilizada para o desenvolvimento backend dos códigos da aplicação.</p>
 <p align="justify"><strong>Visual Studio Code:</strong> IDE utilizada para o desenvolvimento frontend dos códigos da aplicação.</p>
@@ -405,91 +336,31 @@ Este projeto representou meu primeiro contato com a programação e com todo ess
 
 <h2>Minhas Contribuições</h2>
 
- > Contribuí ativamente como desenvolvedor backend, desempenhando um papel crucial na arquitetura e implementação de APIs, gerenciamento de bancos de dados e criação de soluções escaláveis e eficientes. Além disso, assumi o papel de Product Owner, atuando como ponto de comunicação entre o cliente e minha equipe, garantindo que as necessidades do projeto fossem compreendidas e atendidas com eficiência.
+Atuei como desenvolvedora no projeto, contribuindo de forma significativa para diferentes etapas do processo de desenvolvimento. Fui responsável pela otimização das exceções geradas durante a execução da aplicação, garantindo maior robustez e confiabilidade ao sistema. Participei da construção dos DTOs (Data Transfer Objects), fundamentais para a padronização e organização da comunicação entre as camadas da aplicação, além de apoiar na definição e estruturação do projeto web.
 
-### 1. **Query no Banco**
-   - Contribuí Fui responsável pela criação e otimização de queries no banco de dados, garantindo a eficiência na recuperação e manipulação de informações. Desenvolvi scripts SQL para atender às necessidades do sistema, além de implementar soluções para melhorar o desempenho e a integridade dos dados.
-
-
-### 2. **Validação e Autenticação do usuário**
-   - Fui responsável pela implementação da segurança de acesso do sistema, incluindo a validação de usuários e o gerenciamento de permissões, garantindo que apenas usuários autorizados tivessem acesso a informações sensíveis. Desenvolvi mecanismos de autenticação robustos, como validação de credenciais e controle de sessões, assegurando a proteção contra acessos não autorizados. Além disso, implementei políticas de segurança para garantir a integridade e a confidencialidade dos dados, criando um ambiente seguro e confiável para os usuários e para o sistema como um todo.
-
-
-   ### 3. **Visualização do LOG**
-   - Fui responsável pela implementação do módulo de visualização de logs, que registra e exibe de forma mais detalhada a movimentação dos usuários e processos dentro do sistema. Desenvolvi funcionalidades que permitem o monitoramento das ações realizadas, facilitando a auditoria e o rastreamento de eventos críticos. Esse sistema proporcionou uma visão clara e transparente das interações dos usuários, garantindo a integridade operacional e a segurança do ambiente, além de possibilitar uma análise eficiente em caso de incidentes ou necessidade de diagnóstico 
-
+Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo cliente, assegurando que fossem corretamente processados e integrados ao sistema. Também implementei a lógica para a identificação e apresentação dos pontos de parada, a partir dos retornos gerados pelas queries no banco de dados, contribuindo para a transformação de dados brutos em informações relevantes para a análise e tomada de decisão.
 <br>
 
-<h2>Conhecimentos Obtidos</h2>
-<p align="justify">Durante o desenvolvimento desta aplicação, tive a oportunidade de vivenciar todo o ciclo de vida do desenvolvimento de software, desde a gestão ágil do projeto até a implementação eficiente no backend. Trabalhei em equipe de forma colaborativa, e aprendi a importância de proporcionar ao clienet uma excelente experiência de usuário, a partir de interfaces intuitivas e de fácil compreensão. Essa experiência me permitiu aprimorar minhas habilidades em comunicação e colaboração, sempre buscando soluções que atendem às necessidades do usuário final de forma clara e eficaz.</p>
+<h2>Hard Skills</h2>
+ Exercitei algumas hard skills durante esse projeto:
+  - Java - Sei fazer com ajuda 
+  - Spring Boot - Sei fazer com ajuda 
+  - Git - Sei fazer com ajuda 
+  - Github - Sei fazer com ajuda
+  - Docker - Sei fazer com ajuda 
+  - Oracle - Sei fazer com ajuda
 
-<h3>Hard Skills</h3>
-  <table>
-    <tr>
-      <th width="300px">Tecnologia/Metodologia</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>SPRING BOOT</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>MYSQL</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>SLACK</td>
-      <td align="center">★★★★★</td>
-    </tr>
-    <tr>
-    <tr>
-      <td>CLICkUP</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>FIGMA</td>
-      <td align="center">★★☆☆☆☆</td>
-    </tr>
-    <tr>
-      <td>INTELLIJ</td>
-      <td align="center">★★★★☆</td>
-    </tr>
-    <tr>
-      <td>POSTMAN</td>
-      <td align="center">★★★★★</td>
-    </tr>
-  </table>
 
-<h3>Soft Skills </h3>
-  <table>
-    <tr>
-      <th width="300px">Habilidade</th>
-      <th width="300px">Classificação</th>
-    </tr>
-    <tr>
-      <td>Proatividade</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Comunicação</td>
-      <td align="center">★★★★★★</td>
-    </tr>
-    <tr>
-      <td>Colaboração</td>
-      <td align="center">★★★★★☆</td>
-    </tr>
-    <tr>
-      <td>Organização, Planejamento e Entrega</td>
-      <td align="center">★★★★★★</td
-    </tr>
-     <tr>
-      <td>Organização</td>
-      <td align="center">★★★★★★</td
-    </tr>
-         <tr>
-      <td>Entrega</td>
-      <td align="center">★★★★★★</td
-    </tr>
+<h2>Soft Skills</h2>
+Durante o desenvolvimento do projeto, aprimorei significativamente minhas habilidades interpessoais, em especial no trabalho em equipe, mantendo uma comunicação clara, objetiva e constante com os demais integrantes. Busquei sempre atuar de forma colaborativa e com comprometimento ativo, contribuindo para o andamento das entregas e para a integração entre as diferentes partes do projeto.
 
- </table>
+As reuniões semanais foram fundamentais para meu desenvolvimento, pois me ajudaram a estruturar melhor a forma de expor e descrever as atividades realizadas, tornando minha comunicação mais assertiva e facilitando o alinhamento com a equipe. Essa prática também fortaleceu minha capacidade de organização, planejamento e acompanhamento do progresso coletivo, habilidades essenciais para a construção de um ambiente de trabalho produtivo e colaborativo.
+  
+
+
+  <h2>Link do repositório no Github</h2>
+
+<a href="https://github.com/iNineBD/GeoTrack-4Sem2024Main">Repositório Github</a></h4>
+</details>
+
 </details>
