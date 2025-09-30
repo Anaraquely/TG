@@ -52,8 +52,7 @@ Anteriormente, trabalhei como assistente e supervisora no setor de digitação d
 
 
 <p align="justify"> Empresa Parceira - <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC / INTERNO</a></p>
-Srum Master - Fabiano Sabha Walckak</p> 
-Product Owner - Lucas Gonçalves Nadalete</p> 
+
 
 <p align="center"><img src="https://github.com/user-attachments/assets/832e0363-7337-41fa-b681-133534142f2c" widht="20%"></img>
 
@@ -130,11 +129,10 @@ Este projeto representou meu primeiro contato com a programação e com todo ess
 <div align="center"><h1 style="color: blue;">Sistema Gerenciador de TGs - 2º Semestre 2023/2</h1></div>
 
 <p align="justify"> Empresa Parceira - <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC / INTERNO</a></p>
-Srum Master - Giuliano Bertoti</p> 
-Product Owner - Emanuel Mineda</p> 
 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/28df1878-1026-45f5-b395-d37a48e1e385" widht="20%"></img>
+<p align="center"><img width="1531" height="846" alt="image" src="https://github.com/user-attachments/assets/63c46f34-9d17-435a-9c03-bdb90283c295" />
+
 
 
 
@@ -283,13 +281,15 @@ Nesse processo, desenvolvi queries otimizadas no banco de dados, implementei mec
 A vivência de todo o ciclo de vida do desenvolvimento de software me ajudou a fortalecer minha capacidade de trabalhar em equipe, a ser resiliente diante de novos desafios e a exercitar a empatia ao compreender as reais necessidades do cliente. Com isso, pude evoluir não apenas como profissional de tecnologia, mas também como colaboradora comprometida em entregar soluções funcionais e que fazem diferença para os usuários.
 <br>
 
-</details>
-
-
   <h2>Link do repositório no Github</h2>
 
 <a href="https://github.com/iNineBD/DataFlow-3Sem2024?tab=readme-ov-file">Repositório Github</a></h4>
 </details>
+
+</details>
+
+
+
 
 <br>
 
@@ -342,13 +342,16 @@ Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo 
 <br>
 
 <h2>Hard Skills</h2>
- Exercitei algumas hard skills durante esse projeto:
+
+  Exercitei algumas hard skills durante esse projeto:
   - Java - Sei fazer com ajuda 
   - Spring Boot - Sei fazer com ajuda 
   - Git - Sei fazer com ajuda 
   - Github - Sei fazer com ajuda
   - Docker - Sei fazer com ajuda 
   - Oracle - Sei fazer com ajuda
+<br>
+
 
 
 <h2>Soft Skills</h2>
