@@ -8,7 +8,7 @@
 </p>
 
 <p align="justify">
-Meu nome é Ana Raquel, tenho 20 anos e sou estudante do 6° semestre do curso de Banco de Dados na FATEC de São José dos Campos - Prof. Jessen Vidal. Optei por estudar nesta instituição por reconhecê-la como referência na área de tecnologia e por valorizar seus métodos de ensino, que preparam os alunos de forma eficiente para o mercado de trabalho.
+Meu nome é Ana Raquel, tenho 21 anos e sou estudante do 6° semestre do curso de Banco de Dados na FATEC de São José dos Campos - Prof. Jessen Vidal. Optei por estudar nesta instituição por reconhecê-la como referência na área de tecnologia e por valorizar seus métodos de ensino, que preparam os alunos de forma eficiente para o mercado de trabalho.
 </p>
 <p align="justify">
 Em relação à minha escolha profissional, acredito que a área de dados, dentro do cenário de Tecnologia da Informação, está em constante expansão, oferecendo diversas oportunidades de atuação. Essa versatilidade é um dos fatores que mais me atraem, pois alinha-se aos meus objetivos para o início da carreira.
