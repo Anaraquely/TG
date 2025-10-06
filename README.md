@@ -14,10 +14,10 @@ Meu nome é Ana Raquel, tenho 21 anos e sou estudante do 6° semestre do curso d
 Em relação à minha escolha profissional, acredito que a área de dados, dentro do cenário de Tecnologia da Informação, está em constante expansão, oferecendo diversas oportunidades de atuação. Essa versatilidade é um dos fatores que mais me atraem, pois alinha-se aos meus objetivos para o início da carreira.
 <p align="justify">
 </p>
-Atualmente, atuo como estagiária na Dom Rock, empresa com a qual tive a oportunidade de colaborar em um dos projeto acadêmico que desenvolvemos durante  semetre. Essa experiência proporcionou visibilidade e foi determinante para minha seleção no processo de estágio.
+Atualmente, atuo como estagiária na Dom Rock, empresa com a qual tive a oportunidade de colaborar em um dos projeto acadêmico que desenvolvemos durante o 3° semetre. Essa experiência proporcionou visibilidade e foi determinante para minha seleção no processo de estágio.
 <p align="justify">
   </p>
-Anteriormente, trabalhei como assistente e supervisora no setor de digitação de uma empresa do ramo industrial. Nessa posição, pude desenvolver e aprimorar minhas _soft skills_, especialmente liderança, empatia, organização e comunicação, competências que me tornam uma profissional apta a trabalhar de forma colaborativa em equipe.
+Anteriormente, trabalhei como assistente e supervisora no setor de digitação de uma empresa do ramo industrial. Nessa posição, pude desenvolver e aprimorar minhas soft skills, especialmente liderança, empatia, organização e comunicação, competências que me tornam uma profissional apta a trabalhar de forma colaborativa em equipe.
 </p>
 
 ## Contatos:
@@ -52,6 +52,8 @@ Anteriormente, trabalhei como assistente e supervisora no setor de digitação d
 
 
 <p align="justify"> Empresa Parceira - <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC / INTERNO</a></p>
+
+<p align="justify"> Professor orientador - Fabiano Sabha Walczak </p>
 
 
 <p align="center"><img src="https://github.com/user-attachments/assets/832e0363-7337-41fa-b681-133534142f2c" widht="20%"></img>
@@ -129,6 +131,7 @@ Este projeto representou meu primeiro contato com a programação e com todo ess
 <div align="center"><h1 style="color: blue;">Sistema Gerenciador de TGs - 2º Semestre 2023/2</h1></div>
 
 <p align="justify"> Empresa Parceira - <a href="https://fatecsjc-prd.azurewebsites.net/">FATEC / INTERNO</a></p>
+<p align="justify"> Professor orientador - Emanuel Mineda Carneiro </p>
 
 
 <p align="center"><img width="1531" height="846" alt="image" src="https://github.com/user-attachments/assets/63c46f34-9d17-435a-9c03-bdb90283c295" />
@@ -299,7 +302,6 @@ A vivência de todo o ciclo de vida do desenvolvimento de software me ajudou a f
 
 <p align="center"><img src="https://github.com/user-attachments/assets/722f46e1-0b96-49f3-a6b3-40c3d9d515bb" widht="20%"></img>
 
-<p align="justify">O sistema Geotrack é uma aplicação web desenvolvida para automatizar o gerenciamento e a configuração de dados de geolocalização. Essa solução permitirá à empresa agilizar a implementação das operações, garantindo a integridade, a consistência e a segurança das informações, reduzindo a necessidade de intervenção de técnicos especializados. Como resultado, a empresa otimizará o monitoramento e o rastreamento em tempo real, tornando as operações mais ágeis e eficientes.</p>
 
 <details>
 
