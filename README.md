@@ -115,8 +115,7 @@ Com base nesse problema, desenvolvemos uma aplicação acessada via prompt/termi
 
 
 ### **Soft Skills**
-Este projeto representou meu primeiro contato com a programação e com todo esse universo. Além do desenvolvimento técnico inicial, foi uma oportunidade valiosa para aprimorar minhas soft skills, como trabalho em equipe, comunicação clara e iniciativa para explorar o que ainda era desconhecido para mim. Nesse processo, aprendi a ser uma boa ouvinte e, mesmo sem pleno domínio técnico, a contribuir com ideias e sugestões relevantes. Assim como eu, muitos dos meus colegas também estavam em sua primeira experiência com programação, e sempre que possível, me coloquei à disposição para apoiá-los.
-
+Este projeto marcou minha imersão inicial na programação. Além do desenvolvimento técnico fundamental, foi crucial para o aprimoramento de soft skills essenciais. Dentre elas, destaco o trabalho em equipe e a comunicação clara, fundamentais para o alinhamento do grupo. Minha iniciativa foi exercitada ao explorar ativamente o que era desconhecido, transformando dúvidas em aprendizado. Desenvolvi a escuta ativa, que me permitiu absorver e contribuir com ideias e sugestões relevantes, mesmo nas áreas de menor domínio técnico. Além disso, pratiquei a colaboração e o apoio mútuo ao me colocar à disposição para auxiliar colegas que também estavam em suas primeiras experiências com a programação, fortalecendo a sinergia da equipe.
 
 
   <h2>Link do repositório no Github</h2>
