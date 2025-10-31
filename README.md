@@ -372,7 +372,7 @@ As reuniões semanais foram fundamentais para meu desenvolvimento, pois me ajuda
 
 <p align="justify"> Empresa Parceira - <a href="https://youtan.com.br/">YOUTAN</a></p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/722f46e1-0b96-49f3-a6b3-40c3d9d515bb" widht="20%"></img>
+<p align="center"><img src="https://github.com/user-attachments/assets/86201d2e-5f11-4f73-89b0-282c0a7b5222" widht="20%"></img>
 
 
 <details>
