@@ -301,7 +301,6 @@ A vivência de todo o ciclo de vida do desenvolvimento de software me ajudou a f
 
 <p align="center"><img src="https://github.com/user-attachments/assets/722f46e1-0b96-49f3-a6b3-40c3d9d515bb" widht="20%"></img>
 
-
 <details>
 
   <summary align="center">VER MAIS DETALHES</summary>
@@ -367,4 +366,75 @@ As reuniões semanais foram fundamentais para meu desenvolvimento, pois me ajuda
 <a href="https://github.com/iNineBD/GeoTrack-4Sem2024Main">Repositório Github</a></h4>
 </details>
 
+<br>
+
+<div align="center"><h1 style="color: blue;">Track - 5° Semestre 2025/1</h1></div>
+
+<p align="justify"> Empresa Parceira - <a href="https://youtan.com.br/">YOUTAN</a></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/722f46e1-0b96-49f3-a6b3-40c3d9d515bb" widht="20%"></img>
+
+
+<details>
+
+  <summary align="center">VER MAIS DETALHES</summary>
+  
+  <h2>Problema</h2>
+A empresa enfrentava dificuldades em extrair insights relevantes a partir das suas plataformas de gestão, sendo necessário realizar esse controle de forma manual, o que demandava tempo e reduzia a precisão e a qualidade das análises. Além disso, não havia a possibilidade de personalizar a visualização dos dados conforme o perfil dos usuários que acessavam o sistema, resultando em uma apresentação genérica, pouco intuitiva e limitada para a tomada de decisões.
+<br>
+
+  <h2>Solução</h2>
+
+Para sanar os problemas apontados, foi desenvolvido o sistema Track, uma plataforma que centraliza todos os cards provenientes das ferramentas de gestão Jira e Taiga em um único ambiente. O sistema possui a capacidade de gerar insights automáticos sobre os dados, como a quantidade total de tickets, o tempo médio de finalização dos cards, entre outros indicadores relevantes. Dessa forma, o Track busca agregar valor às informações, promovendo maior eficiência, transparência e suporte à tomada de decisões baseadas em dados.
+
+<br>
+
+<h2>Tecnologias Utilizadas no Projeto</h2>
+<p align="justify"><strong>Go:</strong> linguagem utilizada para desenvolvimento do backend.</p>
+<p align="justify"><strong>Python:</strong> linguagem utilizada para extração, tratamento e limpeza dos dados.</p>
+<p align="justify"><strong>Nuxt:</strong> framework utilizado para desenvolvimenton do frontend.</p>
+<p align="justify"><strong>Jira:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
+<p align="justify"><strong>Visual Studio Code:</strong> IDE utilizada para o desenvolvimento frontend dos códigos da aplicação.</p>
+<p align="justify"><strong>PostgreSQL:</strong> Banco de dados relacional utilizado para o armazenamento e gerenciamento das informações do sistema.</p>
+<p align="justify"><strong>Docker:</strong> Ferramenta utilizada para criar, empacotar e executar aplicações em contêineres, garantindo um ambiente padronizado e facilitando a implantação em diferentes sistemas.</p>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br>
+<br>
+
+<h2>Minhas Contribuições</h2>
+
+Atuei como Product Owner, sendo responsável por estabelecer uma comunicação eficaz entre a equipe técnica e o cliente, garantindo o alinhamento das expectativas e a definição de um planejamento claro para o projeto.
+Além disso, contribuí na modelagem do banco de dados, participando ativamente da estruturação do modelo de Data Warehouse.
+No papel de desenvolvedora, fui responsável pela implementação dos módulos de login, autenticação e cadastro de usuários, incluindo o envio automatizado de token de primeiro acesso por e-mail.
+Por fim, na disciplina de DevOps, assumi a responsabilidade pela automação do versionamento do banco de dados, promovendo maior controle e agilidade nos processos de desenvolvimento. 
+
+<br>
+
+<h2>Hard Skills</h2>
+ Exercitei algumas hard skills durante esse projeto:
+  - Go - Sei fazer com ajuda 
+  - Git - Sei fazer sozinho
+  - Github - Sei fazer sozinho
+  - Docker - Sei fazer com ajuda 
+  - Postgres - Sei fazer com ajuda
+  
+
+
+<h2>Soft Skills</h2>
+Durante este projeto, tive a oportunidade de aprimorar diversas soft skills essenciais para o ambiente profissional. A experiência me permitiu desenvolver autonomia e autoconfiança, ao assumir a responsabilidade pela implementação de uma automação de forma independente, explorando uma nova linguagem e superando desafios técnicos.
+
+Além disso, o trabalho em equipe foi fundamental para o meu crescimento. Enfrentar divergências e momentos de tensão dentro do grupo me ajudou a fortalecer minha paciência, empatia e habilidades de comunicação, aprendendo a lidar com diferentes pontos de vista e a manter o foco no objetivo comum do projeto.
+
+Essa vivência ampliou minha capacidade de colaboração e resolução de conflitos, tornando-me uma profissional mais madura, resiliente e preparada para atuar em equipes multidisciplinares.
+
+  <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/Track-5Sem2025Main">Repositório Github</a></h4>
+</details>
 </details>
