@@ -419,13 +419,14 @@ Por fim, na disciplina de DevOps, assumi a responsabilidade pela automação do 
 <br>
 
 <h2>Hard Skills</h2>
+
  Exercitei algumas hard skills durante esse projeto:
   - Go - Sei fazer com ajuda 
   - Git - Sei fazer sozinho
   - Github - Sei fazer sozinho
   - Docker - Sei fazer com ajuda 
   - Postgres - Sei fazer com ajuda
-  
+<br>
 
 
 <h2>Soft Skills</h2>
@@ -436,5 +437,75 @@ Além disso, o trabalho em equipe foi fundamental para o meu crescimento. Enfren
 Essa vivência ampliou minha capacidade de colaboração e resolução de conflitos, tornando-me uma profissional mais madura, resiliente e preparada para atuar em equipes multidisciplinares.
 
   <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/Track-5Sem2025Main">Repositório Github</a></h4>
+</details>
+
+
+<div align="center"><h1 style="color: blue;">Vision Data - 6° Semestre 2025/2</h1></div>
+
+<p align="justify"> Empresa Parceira - <a href="https://www.pro4tech.com.br/">PRO4TECH</a></p>
+
+<p align="center"><img src="https://github.com/user-attachments/assets/86201d2e-5f11-4f73-89b0-282c0a7b5222" widht="20%"></img>
+
+
+<details>
+
+  <summary align="center">VER MAIS DETALHES</summary>
+  
+  <h2>Problema</h2>
+A Pro4Tech identificou um grande desafio: um enorme volume de tickets antigos de suporte está desorganizado e sem aproveitamento. Isso cria um ciclo de ineficiência — o time perde tempo buscando soluções já existentes, enquanto a empresa deixa de extrair insights valiosos desse histórico. Há uma necessidade de transformar esse “conhecimento estagnado” em um ativo acessível, inteligente e estratégico, que otimize o trabalho diário e apoie decisões mais precisas da liderança.
+<br>
+
+  <h2>Solução</h2>
+A solução encontrada foi criar um sistema inteligente que organiza e transforma os tickets antigos em uma base de conhecimento pesquisável. Isso agiliza a busca por soluções, otimiza o tempo da equipe e melhora o atendimento. Além disso, o sistema gera métricas e insights estratégicos, permitindo que a liderança identifique tendências e tome decisões mais assertivas, fortalecendo a eficiência operacional da Pro4Tech.
+
+<br>
+
+<h2>Tecnologias Utilizadas no Projeto</h2>
+<p align="justify"><strong>Go:</strong> linguagem utilizada para desenvolvimento do backend.</p>
+<p align="justify"><strong>Python:</strong> linguagem utilizada para extração, tratamento e limpeza dos dados.</p>
+<p align="justify"><strong>Nuxt:</strong> framework utilizado para desenvolvimenton do frontend.</p>
+<p align="justify"><strong>Jira:</strong> ferramenta utilizada para o gerenciamento do projeto.</p>
+<p align="justify"><strong>Visual Studio Code:</strong> IDE utilizada para o desenvolvimento frontend dos códigos da aplicação.</p>
+<p align="justify"><strong>PostgreSQL:</strong> Banco de dados relacional utilizado para o armazenamento e gerenciamento das informações do sistema.</p>
+<p align="justify"><strong>Elastic Search:</strong> Ferramenta de busca e análise de dados não relacional.</p>
+<p align="justify"><strong>Docker:</strong> Ferramenta utilizada para criar, empacotar e executar aplicações em contêineres, garantindo um ambiente padronizado e facilitando a implantação em diferentes sistemas.</p>
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+<br>
+<br>
+
+<h2>Minhas Contribuições</h2>
+
+Atuei como Product Owner, sendo responsável por estabelecer uma comunicação eficaz entre a equipe técnica e o cliente, garantindo o alinhamento das expectativas e a definição de um planejamento claro para o projeto.
+Também contribuí na construção da lógica das predições, realizando o treinamento, ajuste e validação dos dados. Além disso, implementei a funcionalidade de exportação de insights da aplicação para arquivos PDF, facilitando o compartilhamento das informações pelos usuários.
+
+<br>
+
+<h2>Hard Skills</h2>
+
+ Exercitei algumas hard skills durante esse projeto:
+  - Python - Sei fazer com ajuda 
+  - Git - Sei fazer sozinho
+  - Github - Sei fazer sozinho
+  - Docker - Sei fazer com ajuda 
+  - Postgres - Sei fazer com ajuda
+<br>
+
+
+<h2>Soft Skills</h2>
+Durante este projeto, tive a oportunidade de aprimorar diversas soft skills essenciais para o ambiente profissional. A experiência me permitiu desenvolver autonomia e autoconfiança, ao assumir a responsabilidade pela implementação de uma automação de forma independente, explorando uma nova linguagem e superando desafios técnicos.
+
+Além disso, o trabalho em equipe foi fundamental para o meu crescimento. Enfrentar divergências e momentos de tensão dentro do grupo me ajudou a fortalecer minha paciência, empatia e habilidades de comunicação, aprendendo a lidar com diferentes pontos de vista e a manter o foco no objetivo comum do projeto.
+
+Essa vivência ampliou minha capacidade de colaboração e resolução de conflitos, tornando-me uma profissional mais madura, resiliente e preparada para atuar em equipes multidisciplinares.
+
+  <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/VisionData-6Sem2025Main">Repositório Github</a></h4>
 </details>
 </details>
