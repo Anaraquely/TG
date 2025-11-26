@@ -115,7 +115,7 @@ Com base nesse problema, desenvolvemos uma aplicação acessada via prompt/termi
 
 
 ### **Soft Skills**
-Este projeto marcou minha imersão inicial na programação. Além do desenvolvimento técnico fundamental, foi crucial para o aprimoramento de soft skills essenciais. Dentre elas, destaco o trabalho em equipe e a comunicação clara, fundamentais para o alinhamento do grupo. Minha iniciativa foi exercitada ao explorar ativamente o que era desconhecido, transformando dúvidas em aprendizado. Desenvolvi a escuta ativa, que me permitiu absorver e contribuir com ideias e sugestões relevantes, mesmo nas áreas de menor domínio técnico. Além disso, pratiquei a colaboração e o apoio mútuo ao me colocar à disposição para auxiliar colegas que também estavam em suas primeiras experiências com a programação, fortalecendo a sinergia da equipe.
+Este projeto marcou minha imersão inicial na programação. Além do desenvolvimento técnico fundamental, foi crucial para o aprimoramento de soft skills essenciais. Dentre elas, destaco o trabalho em equipe e a comunicação clara, fundamentais para o alinhamento do grupo. Minha iniciativa foi exercitada ao explorar ativamente as ferramentas, que eram desconhecidas por mim, transformando dúvidas em aprendizado. Desenvolvi a escuta ativa, que me permitiu absorver e contribuir com ideias e sugestões, como o fluxo da navegação. Além disso, pratiquei a colaboração e o apoio mútuo ao me colocar à disposição para auxiliar colegas que também estavam em suas primeiras experiências com a programação, fortalecendo a sinergia da equipe.
 
 
   <h2>Link do repositório no Github</h2>
@@ -195,7 +195,7 @@ Atuei como desenvolvedora no projeto, contribuindo em diferentes etapas do siste
 
 
 ### **Soft Skills**
-Minha proatividade foi exercitada ao buscar soluções, esclarecer dúvidas e me antecipar às necessidades do time. A comunicação tornou-se um ponto de atenção constante, permitindo alinhar expectativas, compartilhar ideias com clareza e contribuir para um fluxo de trabalho mais eficiente. Minha curiosidade guiou minha jornada de aprendizagem, incentivando a exploração de novos conceitos e abordagens. Além disso, o projeto reforçou minha colaboração e trabalho em equipe, proporcionando um ambiente onde pude aprender com diferentes perspectivas e contribuir ativamente para o avanço coletivo.
+Minha proatividade foi exercitada ao buscar soluções com as ferramentas declaradas, esclarecer dúvidas do meu time e me antecipar às necessidades, como por exemplo na parte de documentação do projeto. A comunicação tornou-se um ponto de atenção constante, permitindo alinhar expectativas, compartilhar ideias com clareza e contribuir para um fluxo de trabalho mais eficiente. Minha curiosidade guiou minha jornada de aprendizagem, incentivando a exploração de novos conceitos e abordagens que surgiram pela nova linguagem utilizada e adição do visual. Além disso, o projeto reforçou minha colaboração e trabalho em equipe, proporcionando um ambiente onde pude aprender com diferentes perspectivas e contribuir ativamente para o avanço coletivo.
 
 
   <h2>Link do repositório no Github</h2>
@@ -280,7 +280,7 @@ Nesse processo, desenvolvi queries otimizadas no banco de dados, implementei mec
 
 <h2>Soft Skills</h2>
 
-A participação em todo o ciclo de desenvolvimento de software foi essencial para o fortalecimento das minhas competências interpessoais. O trabalho em equipe foi continuamente exercitado por meio da colaboração ativa, do alinhamento constante e da troca de conhecimento com o grupo. A resiliência se tornou indispensável ao lidar com desafios técnicos e mudanças de direção, permitindo que eu mantivesse a adaptabilidade e o foco em soluções. Além disso, pratiquei a empatia, buscando compreender profundamente as necessidades do cliente para traduzir expectativas em entregas que realmente agregassem valor.
+A participação em todo o ciclo de desenvolvimento de software foi essencial para o fortalecimento das minhas competências interpessoais. O trabalho em equipe foi continuamente exercitado por meio da colaboração ativa no desenvolvimento e comunicação com o time, alinhamento constante através das reuniões semanais e da troca de conhecimento com o grupo. A resiliência se tornou indispensável ao lidar com desafios técnicos com o novo desfaio apresentado, que foi o desenvolvimento de uma aplicação web e mudanças de direção ocasionados pelo cliente, permitindo que eu mantivesse a adaptabilidade e o foco em soluções. Além disso, pratiquei a empatia, buscando compreender profundamente as necessidades do cliente para traduzir expectativas em entregas que realmente agregassem valor e que combinassem com a capacidade técnica do meu grupo.
 <br>
 
   <h2>Link do repositório no Github</h2>
@@ -355,9 +355,9 @@ Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo 
 
 
 <h2>Soft Skills</h2>
-Durante o desenvolvimento do projeto, pude aprimorar de forma significativa minhas habilidades interpessoais. O trabalho em equipe foi fortalecido por meio de uma comunicação clara, objetiva e contínua com os demais integrantes, garantindo alinhamento e fluidez nas entregas. Atuei de maneira colaborativa e com comprometimento ativo, contribuindo para o avanço das atividades e para a integração entre as diferentes frentes do projeto.
+Durante o desenvolvimento do projeto, pude aprimorar o trabalho em equipe por meio de uma comunicação clara, objetiva e contínua com os demais integrantes, garantindo alinhamento e fluidez nas entregas. Atuei de maneira colaborativa e com comprometimento ativo, contribuindo para o avanço das atividades/tasks e para a integração entre as diferentes frentes do projeto, como por exemplo, no banco e backend.
 
-As reuniões semanais tiveram um papel importante nesse processo. Elas me ajudaram a desenvolver uma comunicação mais assertiva, estruturando melhor a exposição das atividades e facilitando o entendimento comum. Essa rotina também aprimorou minha organização, planejamento e capacidade de monitorar o progresso do time, competências essenciais para sustentar um ambiente de trabalho produtivo, coordenado e realmente colaborativo.
+As reuniões semanais tiveram um papel importante nesse processo, elas me ajudaram a desenvolver uma comunicação mais assertiva, estruturando melhor a exposição das atividades e facilitando o entendimento comum. Essa rotina também aprimorou minha organização, planejamento e capacidade de monitorar o meu progresso e o do time, competências essenciais para sustentar um ambiente de trabalho produtivo, coordenado e realmente colaborativo.
   
 
 
@@ -500,11 +500,8 @@ Também contribuí na construção da lógica das predições, realizando o trei
 
 
 <h2>Soft Skills</h2>
-Durante este projeto, pude aprimorar de forma marcante diversas soft skills essenciais para o ambiente profissional. Desenvolvi autonomia e autoconfiança ao assumir a responsabilidade por uma automação de forma independente, explorando uma linguagem nova e enfrentando desafios técnicos com iniciativa e foco.
-
-O trabalho em equipe também foi um pilar importante do meu aprendizado. Lidar com divergências e momentos de tensão dentro do grupo fortaleceu minha paciência e empatia, além de aprimorar minhas habilidades de comunicação. Essa experiência me ensinou a compreender diferentes perspectivas, ouvir ativamente e buscar soluções que beneficiassem o objetivo comum do projeto.
-
-Essa vivência consolidou minhas competências de colaboração e resolução de conflitos, tornando-me uma profissional mais madura, resiliente e preparada para atuar de forma efetiva em equipes multidisciplinares.
+Assim como os outros semestre, pude me desenvolver um pouco mais da minha proatividade e curiodsidade, revisitando a linguagem Python, essa que tinha tido contato apenas no inicio da graduação. Alem dessa, melhorei o meu trabalho em equipe, assumindo responsabilidades como o desenvolvimento da parte de predição, estudo esse, até então desconhecido por mim. 
+Aprimorei mais a minha comunicação assertiva, onde pude tratar e alinhar as necessidades do cliente de forma breve. 
 
   <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/VisionData-6Sem2025Main">Repositório Github</a></h4>
 </details>
