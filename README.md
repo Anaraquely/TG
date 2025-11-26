@@ -195,7 +195,7 @@ Atuei como desenvolvedora no projeto, contribuindo em diferentes etapas do siste
 
 
 ### **Soft Skills**
-Durante o projeto, fui apresentada a uma nova linguagem de programação, o que me permitiu desenvolver ainda mais minha capacidade analítica ao adaptar conhecimentos prévios a um novo contexto. Além do aprendizado técnico, também pude fortalecer minhas habilidades interpessoais, buscando sempre ser uma colaboradora proativa, comunicativa e curiosa. Esse projeto foi uma oportunidade valiosa para aprimorar meu trabalho em equipe e evoluir essas minhas habilidades em um ambiente colaborativo.
+Minha proatividade foi exercitada ao buscar soluções, esclarecer dúvidas e me antecipar às necessidades do time. A comunicação tornou-se um ponto de atenção constante, permitindo alinhar expectativas, compartilhar ideias com clareza e contribuir para um fluxo de trabalho mais eficiente. Minha curiosidade guiou minha jornada de aprendizagem, incentivando a exploração de novos conceitos e abordagens. Além disso, o projeto reforçou minha colaboração e trabalho em equipe, proporcionando um ambiente onde pude aprender com diferentes perspectivas e contribuir ativamente para o avanço coletivo.
 
 
   <h2>Link do repositório no Github</h2>
@@ -280,7 +280,7 @@ Nesse processo, desenvolvi queries otimizadas no banco de dados, implementei mec
 
 <h2>Soft Skills</h2>
 
-A vivência de todo o ciclo de vida do desenvolvimento de software me ajudou a fortalecer minha capacidade de trabalhar em equipe, a ser resiliente diante de novos desafios e a exercitar a empatia ao compreender as reais necessidades do cliente. Com isso, pude evoluir não apenas como profissional de tecnologia, mas também como colaboradora comprometida em entregar soluções funcionais e que fazem diferença para os usuários.
+A participação em todo o ciclo de desenvolvimento de software foi essencial para o fortalecimento das minhas competências interpessoais. O trabalho em equipe foi continuamente exercitado por meio da colaboração ativa, do alinhamento constante e da troca de conhecimento com o grupo. A resiliência se tornou indispensável ao lidar com desafios técnicos e mudanças de direção, permitindo que eu mantivesse a adaptabilidade e o foco em soluções. Além disso, pratiquei a empatia, buscando compreender profundamente as necessidades do cliente para traduzir expectativas em entregas que realmente agregassem valor.
 <br>
 
   <h2>Link do repositório no Github</h2>
@@ -355,9 +355,9 @@ Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo 
 
 
 <h2>Soft Skills</h2>
-Durante o desenvolvimento do projeto, aprimorei significativamente minhas habilidades interpessoais, em especial no trabalho em equipe, mantendo uma comunicação clara, objetiva e constante com os demais integrantes. Busquei sempre atuar de forma colaborativa e com comprometimento ativo, contribuindo para o andamento das entregas e para a integração entre as diferentes partes do projeto.
+Durante o desenvolvimento do projeto, pude aprimorar de forma significativa minhas habilidades interpessoais. O trabalho em equipe foi fortalecido por meio de uma comunicação clara, objetiva e contínua com os demais integrantes, garantindo alinhamento e fluidez nas entregas. Atuei de maneira colaborativa e com comprometimento ativo, contribuindo para o avanço das atividades e para a integração entre as diferentes frentes do projeto.
 
-As reuniões semanais foram fundamentais para meu desenvolvimento, pois me ajudaram a estruturar melhor a forma de expor e descrever as atividades realizadas, tornando minha comunicação mais assertiva e facilitando o alinhamento com a equipe. Essa prática também fortaleceu minha capacidade de organização, planejamento e acompanhamento do progresso coletivo, habilidades essenciais para a construção de um ambiente de trabalho produtivo e colaborativo.
+As reuniões semanais tiveram um papel importante nesse processo. Elas me ajudaram a desenvolver uma comunicação mais assertiva, estruturando melhor a exposição das atividades e facilitando o entendimento comum. Essa rotina também aprimorou minha organização, planejamento e capacidade de monitorar o progresso do time, competências essenciais para sustentar um ambiente de trabalho produtivo, coordenado e realmente colaborativo.
   
 
 
@@ -444,7 +444,7 @@ Essa vivência ampliou minha capacidade de colaboração e resolução de confli
 
 <p align="justify"> Empresa Parceira - <a href="https://www.pro4tech.com.br/">PRO4TECH</a></p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/86201d2e-5f11-4f73-89b0-282c0a7b5222" widht="20%"></img>
+<p align="center"><img src="https://github.com/user-attachments/assets/99de14bb-64ad-466d-8280-862e774d5a22" widht="20%"></img>
 
 
 <details>
@@ -500,11 +500,11 @@ Também contribuí na construção da lógica das predições, realizando o trei
 
 
 <h2>Soft Skills</h2>
-Durante este projeto, tive a oportunidade de aprimorar diversas soft skills essenciais para o ambiente profissional. A experiência me permitiu desenvolver autonomia e autoconfiança, ao assumir a responsabilidade pela implementação de uma automação de forma independente, explorando uma nova linguagem e superando desafios técnicos.
+Durante este projeto, pude aprimorar de forma marcante diversas soft skills essenciais para o ambiente profissional. Desenvolvi autonomia e autoconfiança ao assumir a responsabilidade por uma automação de forma independente, explorando uma linguagem nova e enfrentando desafios técnicos com iniciativa e foco.
 
-Além disso, o trabalho em equipe foi fundamental para o meu crescimento. Enfrentar divergências e momentos de tensão dentro do grupo me ajudou a fortalecer minha paciência, empatia e habilidades de comunicação, aprendendo a lidar com diferentes pontos de vista e a manter o foco no objetivo comum do projeto.
+O trabalho em equipe também foi um pilar importante do meu aprendizado. Lidar com divergências e momentos de tensão dentro do grupo fortaleceu minha paciência e empatia, além de aprimorar minhas habilidades de comunicação. Essa experiência me ensinou a compreender diferentes perspectivas, ouvir ativamente e buscar soluções que beneficiassem o objetivo comum do projeto.
 
-Essa vivência ampliou minha capacidade de colaboração e resolução de conflitos, tornando-me uma profissional mais madura, resiliente e preparada para atuar em equipes multidisciplinares.
+Essa vivência consolidou minhas competências de colaboração e resolução de conflitos, tornando-me uma profissional mais madura, resiliente e preparada para atuar de forma efetiva em equipes multidisciplinares.
 
   <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/VisionData-6Sem2025Main">Repositório Github</a></h4>
 </details>
