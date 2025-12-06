@@ -115,7 +115,12 @@ Com base nesse problema, desenvolvemos uma aplicação acessada via prompt/termi
 
 
 ### **Soft Skills**
-Este projeto marcou minha imersão inicial na programação. Além do desenvolvimento técnico fundamental, foi crucial para o aprimoramento de soft skills essenciais. Dentre elas, destaco o trabalho em equipe e a comunicação clara, fundamentais para o alinhamento do grupo durante o projeto. Minha iniciativa foi exercitada ao explorar ativamente as ferramentas que eram desconhecidas por mim, transformando dúvidas em aprendizado. Desenvolvi a escuta ativa, que me permitiu absorver e contribuir com ideias e sugestões, como por exemplo, o fluxo da navegação da aplicação. Além disso, pratiquei a colaboração e o apoio mútuo ao me colocar à disposição para auxiliar colegas que também estavam em suas primeiras experiências com a programação, fortalecendo a sinergia da equipe.
+| Soft Skill            | Onde foi aplicada                                                                                   |
+|-----------------------|------------------------------------------------------------------------------------------------------|
+| Trabalho em equipe e Comunicação clara | Durante as reuniões semanais, eu participava ativamente apresentando minhas ideias e atualizando o time sobre o andamento das minhas tarefas. Em uma das sprints, tive atraso na entrega da task de atualização de um dos CRUDs; imediatamente comuniquei o grupo, expliquei o motivo e sinalizei o novo prazo, o que permitiu à equipe reorganizar as atividades e reduzir o impacto do atraso. |
+| Iniciativa            | Exercitei iniciativa ao aprender Python do zero para acompanhar o ritmo do projeto, além de explorar ferramentas como JSON, Git e GitHub. Isso me permitiu contribuir de forma mais técnica desde o início, mesmo sem experiência prévia com essas tecnologias. |
+| Colaboração           | No início do projeto, quando o backlog ainda estava sendo estruturado, ajudei meus colegas a escrever as histórias e tarefas, para que pudéssemos avançar juntos com clareza sobre o que deveria ser desenvolvido. |
+| Empatia               | Como muitos do grupo também estavam aprendendo programação pela primeira vez, me coloquei sempre disponível para apoiar em qualquer etapa, seja revisando trechos de código, ajudando na escrita da documentação ou explicando conceitos que eu havia entendido.|
 
 
   <h2>Link do repositório no Github</h2>
@@ -195,7 +200,14 @@ Atuei como desenvolvedora no projeto, contribuindo em diferentes etapas do siste
 
 
 ### **Soft Skills**
-Minha proatividade foi exercitada ao buscar soluções com as novas ferramentas propostas, esclarecer dúvidas do meu time e me antecipar às necessidades, como por exemplo, a parte de documentação do projeto. A comunicação tornou-se um ponto de atenção constante, permitindo alinhar expectativas, compartilhar ideias com clareza e contribuir para um fluxo de trabalho mais eficiente da equipe. Minha curiosidade guiou minha jornada de aprendizagem, incentivando a exploração de novos conceitos e abordagens que surgiram pela nova linguagem utilizada. Além disso, o projeto reforçou minha colaboração e trabalho em equipe, proporcionando um ambiente onde pude aprender com as diferentes perspectivas dos meus colegas e contribuir ativamente para o avanço coletivo.
+| Soft Skill      | Onde foi aplicada |
+|-----------------|-------------------|
+| Proatividade    | Demonstrei proatividade ao explorar por conta própria as novas ferramentas e tecnologias do projeto, como a linguagem Java e o framework JavaFX. Além disso, percebi antecipadamente a necessidade de organizar a documentação e assumi essa responsabilidade, garantindo que o time tivesse uma base clara para desenvolvimento. |
+| Comunicação     | Mantive uma comunicação constante com o time, principalmente quando surgiam dúvidas técnicas durante o desenvolvimento. Na minha primeira task, a prototipação das telas, mantive contato frequente com os colegas para garantir que o design representasse a visão coletiva da equipe. |
+| Curiosidade     | Como este era um projeto mais complexo e envolvia ferramentas diferentes do primeiro projeto, aproveitei para explorar novos conceitos. Me desafiei a atuar tanto no backend com Java quanto no frontend com JavaFX, ampliando meu conhecimento técnico. |
+| Colaboração e Trabalho em equipe | Contribuí ativamente nas discussões sobre a estrutura das funcionalidades e no design geral do projeto. |
+
+
 
 
   <h2>Link do repositório no Github</h2>
@@ -280,7 +292,14 @@ Nesse processo, desenvolvi queries otimizadas no banco de dados, implementei mec
 
 <h2>Soft Skills</h2>
 
-O trabalho em equipe foi exercitado durante todo o projeto por meio da colaboração ativa no desenvolvimento, da comunicação constante com o time e do alinhamento garantido nas reuniões semanais. A resiliência foi colocada em prática ao enfrentar desafios técnicos no desenvolvimento de uma aplicação web usando um novo modelo de API, exigindo paciência e persistência para superar obstáculos. Também exercitei minha capacidade de priorização ao lidar com mudanças de direcionamento do cliente, o que reforçou minha adaptabilidade e meu foco em encontrar soluções eficientes. Além disso, desenvolvi minha empatia ao buscar compreender profundamente as necessidades do cliente, traduzindo suas expectativas em entregas que agregassem valor e estivessem alinhadas à capacidade técnica do meu grupo.
+| Soft Skill      | Onde foi aplicada |
+|-----------------|-------------------|
+| Trabalho em equipe | Atuei pela primeira vez como Product Owner, o que exigiu um trabalho em equipe constante para alinhar as necessidades do cliente com a capacidade técnica da equipe. Mantive contato frequente com o time para garantir entendimento, coerência e viabilidade das entregas. |
+| Priorização | Como Product Owner, desenvolvi minha habilidade de priorização ao lidar com mudanças nas solicitações do cliente. Um exemplo foi quando um dos requisitos funcionais fugia da proposta central do projeto e não era viável considerando tempo e capacidade técnica. Avaliei o impacto, comuniquei ao time e despriorizei esse item para manter o foco no essencial. |
+| Adaptabilidade | Reforcei minha adaptabilidade na última sprint, quando o cliente solicitou uma funcionalidade fora do escopo previamente aprovado. Após analisar nossas entregas e capacidade, identifiquei como encaixar essa demanda sem comprometer qualidade ou prazos, ajustando o planejamento rapidamente. |
+| Empatia | Exercitei empatia ao considerar a disponibilidade limitada do cliente. Muitas vezes ele não conseguia responder no prazo, então levantei dúvidas com antecedência e, quando necessário, tomei decisões baseadas na perspectiva dele, garantindo que o projeto continuasse alinhado às suas necessidades sem estressar ambos os lados. |
+
+
 <br>
 
   <h2>Link do repositório no Github</h2>
@@ -355,10 +374,13 @@ Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo 
 
 
 <h2>Soft Skills</h2>
-Durante o desenvolvimento do projeto, pude aprimorar o trabalho em equipe por meio de uma comunicação clara, objetiva e contínua com os demais integrantes, garantindo alinhamento e fluidez nas entregas. Atuei de maneira colaborativa e com comprometimento ativo, contribuindo para o avanço das atividades/tasks e para a integração entre as diferentes frentes do projeto, como por exemplo, no banco e backend.
 
-As reuniões semanais tiveram um papel importante nesse processo, elas me ajudaram a desenvolver uma comunicação mais assertiva, estruturando melhor a exposição das atividades e facilitando o entendimento comum. Essa rotina também aprimorou minha organização, planejamento e capacidade de monitorar o meu progresso e a do time, competências essenciais para sustentar um ambiente de trabalho produtivo, coordenado e realmente colaborativo.
-  
+| Soft Skill      | Onde foi aplicada |
+|-----------------|-------------------|
+| Colaboração | Trabalhei de forma colaborativa no avanço das tasks e na integração entre as frentes do projeto, como banco de dados e backend, garantindo que todas as partes evoluíssem de forma alinhada. |
+| Comunicação assertiva | As reuniões semanais foram fundamentais para desenvolver minha comunicação assertiva. Nelas, passei a estruturar melhor minhas explicações sobre o que desenvolvi, tornando mais fácil para o time entender minhas entregas, dificuldades e necessidades de apoio. |
+| Organização | A rotina de atualizações nas reuniões me ajudou a organizar minhas atividades, planejar o que seria entregue a cada sprint e acompanhar meu próprio progresso. |
+
 
   <h2>Link do repositório no Github</h2>
 
@@ -429,9 +451,16 @@ Por fim, na disciplina de DevOps, assumi a responsabilidade pela automação do 
 
 
 <h2>Soft Skills</h2>
-Esse projeto me permitiu desenvolver autonomia e autoconfiança, ao assumir a responsabilidade pela implementação de uma automação de forma independente, explorando uma nova linguagem e superando desafios técnicos.
-Além disso, o trabalho em equipe foi fundamental para o meu crescimento. Enfrentar divergências e momentos de tensão dentro do grupo me ajudou a fortalecer minha paciência, empatia e habilidades de comunicação, aprendendo a lidar com diferentes pontos de vista e a manter o foco no objetivo comum do projeto.
-Essa vivência ampliou minha capacidade de colaboração e resolução de conflitos, tornando-me uma profissional mais madura e preparada para atuar em equipes multidisciplinares.
+
+| Soft Skill      | Onde foi aplicada |
+|-----------------|-------------------|
+| Autonomia | Desenvolvi autonomia ao assumir integralmente a responsabilidade pela automação do banco de dados, realizando a implementação de forma independente e estudando uma nova linguagem para garantir a entrega completa da solução. |
+| Autoconfiança | Reforcei minha autoconfiança ao superar desafios técnicos sem depender constantemente do time, validando minhas escolhas e mantendo ritmo de entrega mesmo diante de dificuldades. |
+| Trabalho em equipe | O trabalho em equipe foi essencial para manter o progresso do projeto, especialmente ao lidar com divergências de opinião. Atuei para manter o foco coletivo, mesmo em momentos de tensão, buscando sempre alinhar perspectivas. |
+| Paciência | Exercitei paciência ao enfrentar problemas com membros do grupo, ouvindo atentamente, entendendo o contexto de cada situação e evitando reações impulsivas em momentos de pressão. |
+| Comunicação | Melhorei minha comunicação ao expressar meus argumentos com clareza para que a ideia do projeto continuasse intacta, garantindo que minhas colocações fossem compreendidas sem gerar novos atritos. |
+| Colaboração | Ampliei minha colaboração ao cumprir os prazos estabelecidos, ajudar a manter o fluxo das entregas e me disponibilizar para apoiar o time quando existiam dependências relacionadas à tasks em desenvolvendo. |
+
 
   <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/Track-5Sem2025Main">Repositório Github</a></h4>
 </details>
@@ -497,7 +526,14 @@ Também contribuí na construção da lógica das predições, realizando o trei
 
 
 <h2>Soft Skills</h2>
-Nesse projeto, exercitei minha proatividade e curiosidade ao revisitar a linguagem Python, mesmo tendo tido contato com ela apenas no início da graduação, buscando aprender de forma independente e aprofundar meus conhecimentos. Também desenvolvi meu trabalho em equipe ao assumir a responsabilidade pela implementação da parte de predição — um estudo totalmente novo para mim — colaborando com o grupo e contribuindo diretamente para a evolução técnica do projeto. Além disso, pratiquei minha comunicação assertiva ao tratar e alinhar as necessidades do cliente de forma clara, objetiva e eficiente, garantindo entendimento mútuo e fluidez no andamento do projeto.
+
+| Soft Skill            | Onde foi aplicada |
+|-----------------------|-------------------|
+| Proatividade          | Logo no início do projeto, tomei a iniciativa de levar a proposta do que seria desenvolvido para validação, acelerando a construção do backlog. Além disso, me coloquei à disposição do time para assumir qualquer task que surgisse, garantindo que nenhuma etapa ficasse parada. |
+| Curiosidade           | Minha curiosidade foi essencial para explorar novas ferramentas e técnicas utilizadas no projeto. Um exemplo disso foi o aprofundamento em Python para compreender e gerar os modelos de predição, mesmo sendo um tema novo e desafiador para mim. |
+| Comunicação assertiva | Pratiquei comunicação assertiva ao alinhar as necessidades do cliente de forma clara e objetiva. Mantive conversas estruturadas para garantir entendimento mútuo, evitar ruídos e facilitar decisões técnicas — contribuindo diretamente para um projeto final que atendeu as expectativas do cliente. |
+
+
 
   <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/VisionData-6Sem2025Main">Repositório Github</a></h4>
 </details>
