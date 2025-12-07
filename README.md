@@ -203,10 +203,9 @@ Atuei como desenvolvedora no projeto, contribuindo em diferentes etapas do siste
 | Soft Skill      | Onde foi aplicada |
 |-----------------|-------------------|
 | Proatividade    | Demonstrei proatividade ao explorar por conta própria as novas ferramentas e tecnologias do projeto, como a linguagem Java e o framework JavaFX. Além disso, percebi antecipadamente a necessidade de organizar a documentação e assumi essa responsabilidade, garantindo que o time tivesse uma base clara para desenvolvimento. |
-| Comunicação     | Mantive uma comunicação constante com o time, principalmente quando surgiam dúvidas técnicas durante o desenvolvimento. Na minha primeira task, a prototipação das telas, mantive contato frequente com os colegas para garantir que o design representasse a visão coletiva da equipe. |
-| Curiosidade     | Como este era um projeto mais complexo e envolvia ferramentas diferentes do primeiro projeto, aproveitei para explorar novos conceitos. Me desafiei a atuar tanto no backend com Java quanto no frontend com JavaFX, ampliando meu conhecimento técnico. |
-| Colaboração e Trabalho em equipe | Contribuí ativamente nas discussões sobre a estrutura das funcionalidades e no design geral do projeto. |
-
+| Comunicação     | Mantive uma comunicação constante com o time, principalmente quando surgiam dúvidas técnicas durante o desenvolvimento. Um exemplo, foi na minha primeira task, a prototipação das telas, mantive contato frequente com os colegas para garantir que o design representasse a visão coletiva da equipe. |
+| Curiosidade     | Me desafiei a atuar tanto no backend com Java quanto no frontend com JavaFX. |
+| Colaboração e Trabalho em equipe | Contribuí ativamente nas discussões sobre a estrutura das funcionalidades e no design geral do projeto |
 
 
 
@@ -228,10 +227,15 @@ Atuei como desenvolvedora no projeto, contribuindo em diferentes etapas do siste
 <details>
 
   <summary align="center">VER MAIS DETALHES</summary>
-  
+
+  <h2>Área de atuação</h2>
+
+<p align="justify">A Dom Rock atua no setor de Tecnologia da Informação, oferecendo soluções de Inteligência Artificial e análise avançada de dados. Sua plataforma integra e processa grandes volumes de dados para gerar insights estratégicos, automatizar processos e apoiar decisões. Com atuação tanto no setor privado quanto no público.</p>
+<br>
+
   <h2>Problema</h2>
 
-<p align="justify">A Dom Rock possui uma pipeline para o processamento de dados em cascata, que consiste em vários estágios. Este sistema consiste em vários estágios que são coordenados automaticamente com base nas características das fontes de dados e nas necessidades dos clientes em termos de algoritmos de IA ou modelos matemáticos. Na metodologia de implementação do sistema, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. No entanto, a configuração manual das fontes de dados é feita manualmente, sendo um ponto crítico que consome muito tempo dos técnicos e cria uma dependência excessiva de especialistas para realizar tal tarefa.</p>
+<p align="justify">A Empresa possui uma pipeline para o processamento de dados em cascata, que consiste em vários estágios. Este sistema consiste em vários estágios que são coordenados automaticamente com base nas características das fontes de dados e nas necessidades dos clientes em termos de algoritmos de IA ou modelos matemáticos. Na metodologia de implementação do sistema, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. No entanto, a configuração manual das fontes de dados é feita manualmente, sendo um ponto crítico que consome muito tempo dos técnicos e cria uma dependência excessiva de especialistas para realizar tal tarefa.</p>
 <br>
 
   <h2>Solução</h2>
@@ -294,7 +298,7 @@ Nesse processo, desenvolvi queries otimizadas no banco de dados, implementei mec
 
 | Soft Skill      | Onde foi aplicada |
 |-----------------|-------------------|
-| Trabalho em equipe | Atuei pela primeira vez como Product Owner, o que exigiu um trabalho em equipe constante para alinhar as necessidades do cliente com a capacidade técnica da equipe. Mantive contato frequente com o time para garantir entendimento, coerência e viabilidade das entregas. |
+| Trabalho em equipe | Atuei pela primeira vez como Product Owner, o que exigiu um trabalho em equipe constante para alinhar as necessidades do cliente com a capacidade técnica da equipe. Conforme o cliente apresentava suas dores, ja alinhava e ajustava o planejamento, o que demanda um esforço não só meu, como o da minha equipe |
 | Priorização | Como Product Owner, desenvolvi minha habilidade de priorização ao lidar com mudanças nas solicitações do cliente. Um exemplo foi quando um dos requisitos funcionais fugia da proposta central do projeto e não era viável considerando tempo e capacidade técnica. Avaliei o impacto, comuniquei ao time e despriorizei esse item para manter o foco no essencial. |
 | Adaptabilidade | Reforcei minha adaptabilidade na última sprint, quando o cliente solicitou uma funcionalidade fora do escopo previamente aprovado. Após analisar nossas entregas e capacidade, identifiquei como encaixar essa demanda sem comprometer qualidade ou prazos, ajustando o planejamento rapidamente. |
 | Empatia | Exercitei empatia ao considerar a disponibilidade limitada do cliente. Muitas vezes ele não conseguia responder no prazo, então levantei dúvidas com antecedência e, quando necessário, tomei decisões baseadas na perspectiva dele, garantindo que o projeto continuasse alinhado às suas necessidades sem estressar ambos os lados. |
@@ -323,7 +327,14 @@ Nesse processo, desenvolvi queries otimizadas no banco de dados, implementei mec
 <details>
 
   <summary align="center">VER MAIS DETALHES</summary>
-  
+
+
+  <h2>Área de atuação</h2>
+
+<p align="justify">Atua no desenvolvimento de soluções e no gerenciamento de infraestrutura de TI, incluindo suporte técnico (Service Desk e Field Services) e fornecimento de equipamentos em larga escala. Além disso, aplica tecnologias como IoT, Smart Cities, Indústria 4.0, IA e Big Data para impulsionar a transformação digital, a automação e a otimização de processos em organizações públicas e privadas.</p>
+<br>
+
+
   <h2>Problema</h2>
 
 A empresa enfrenta o desafio de armazenar e consultar dados de geolocalização em tempo real, continuamente gerados por dispositivos IoT, como wearables, tags e smartphones. Esses dados são essenciais para o monitoramento de pessoas e ativos, exigindo um sistema capaz de gerenciar grandes volumes de informações de forma escalável, confiável e segura.
@@ -377,7 +388,7 @@ Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo 
 
 | Soft Skill      | Onde foi aplicada |
 |-----------------|-------------------|
-| Colaboração | Trabalhei de forma colaborativa no avanço das tasks e na integração entre as frentes do projeto, como banco de dados e backend, garantindo que todas as partes evoluíssem de forma alinhada. |
+| Colaboração | Trabalhei de forma colaborativa no avanço das tasks e na integração entre as frentes do projeto, como banco de dados (geração das tabelas e relacionamentos) e backend (desenvolvimento), garantindo que todas as partes evoluíssem de forma alinhada. |
 | Comunicação assertiva | As reuniões semanais foram fundamentais para desenvolver minha comunicação assertiva. Nelas, passei a estruturar melhor minhas explicações sobre o que desenvolvi, tornando mais fácil para o time entender minhas entregas, dificuldades e necessidades de apoio. |
 | Organização | A rotina de atualizações nas reuniões me ajudou a organizar minhas atividades, planejar o que seria entregue a cada sprint e acompanhar meu próprio progresso. |
 
@@ -399,7 +410,12 @@ Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo 
 <details>
 
   <summary align="center">VER MAIS DETALHES</summary>
-  
+
+  <h2>Área de atuação</h2>
+
+<p align="justify">A empresa desenvolve soluções digitais personalizadas, criando sistemas, softwares web e aplicativos mobile sob medida. Seus projetos são voltados à melhoria de processos, aumento de produtividade e ampliação da autonomia dos clientes, com ferramentas construídas de acordo com suas necessidades. Atua no desenvolvimento de aplicações híbridas, Web, Android e iOS, sempre priorizando experiência, usabilidade e evolução contínua.</p>
+<br>
+
   <h2>Problema</h2>
 A empresa enfrentava dificuldades em extrair insights relevantes a partir das suas plataformas de gestão, sendo necessário realizar esse controle de forma manual, o que demandava tempo e reduzia a precisão e a qualidade das análises. Além disso, não havia a possibilidade de personalizar a visualização dos dados conforme o perfil dos usuários que acessavam o sistema, resultando em uma apresentação genérica, pouco intuitiva e limitada para a tomada de decisões.
 <br>
@@ -455,8 +471,8 @@ Por fim, na disciplina de DevOps, assumi a responsabilidade pela automação do 
 | Soft Skill      | Onde foi aplicada |
 |-----------------|-------------------|
 | Autonomia | Desenvolvi autonomia ao assumir integralmente a responsabilidade pela automação do banco de dados, realizando a implementação de forma independente e estudando uma nova linguagem para garantir a entrega completa da solução. |
-| Autoconfiança | Reforcei minha autoconfiança ao superar desafios técnicos sem depender constantemente do time, validando minhas escolhas e mantendo ritmo de entrega mesmo diante de dificuldades. |
-| Trabalho em equipe | O trabalho em equipe foi essencial para manter o progresso do projeto, especialmente ao lidar com divergências de opinião. Atuei para manter o foco coletivo, mesmo em momentos de tensão, buscando sempre alinhar perspectivas. |
+| Autoconfiança | Reforcei minha autoconfiança ao superar desafios técnicos, como a linguagem nova que escolhemos para desenvolvimento da aplicação, sem depender constantemente do time, validando minhas escolhas e mantendo ritmo de entrega mesmo diante de dificuldades. |
+| Trabalho em equipe | O trabalho em equipe foi essencial para manter o progresso do projeto, especialmente ao lidar com divergências de opinião. Atuei para manter o foco coletivo, buscando sempre alinhar perspectivas. |
 | Paciência | Exercitei paciência ao enfrentar problemas com membros do grupo, ouvindo atentamente, entendendo o contexto de cada situação e evitando reações impulsivas em momentos de pressão. |
 | Comunicação | Melhorei minha comunicação ao expressar meus argumentos com clareza para que a ideia do projeto continuasse intacta, garantindo que minhas colocações fossem compreendidas sem gerar novos atritos. |
 | Colaboração | Ampliei minha colaboração ao cumprir os prazos estabelecidos, ajudar a manter o fluxo das entregas e me disponibilizar para apoiar o time quando existiam dependências relacionadas à tasks em desenvolvendo. |
@@ -476,6 +492,11 @@ Por fim, na disciplina de DevOps, assumi a responsabilidade pela automação do 
 <details>
 
   <summary align="center">VER MAIS DETALHES</summary>
+
+  <h2>Área de atuação</h2>
+
+<p align="justify">A Pro4Tech é uma empresa é especializada em transformação digital, utilizando tecnologias emergentes — como inteligência artificial, análise de dados, IoT e computação em nuvem — para criar estratégias personalizadas que aumentam a eficiência, melhoram a experiência do cliente e impulsionam o crescimento dos negócios. Seu foco é capacitar organizações para prosperar na era digital e construir soluções que moldam o futuro.</p>
+<br>
   
   <h2>Problema</h2>
 A Pro4Tech identificou um grande desafio: um enorme volume de tickets antigos de suporte está desorganizado e sem aproveitamento. Isso cria um ciclo de ineficiência — o time perde tempo buscando soluções já existentes, enquanto a empresa deixa de extrair insights valiosos desse histórico. Há uma necessidade de transformar esse “conhecimento estagnado” em um ativo acessível, inteligente e estratégico, que otimize o trabalho diário e apoie decisões mais precisas da liderança.
@@ -531,7 +552,7 @@ Também contribuí na construção da lógica das predições, realizando o trei
 |-----------------------|-------------------|
 | Proatividade          | Logo no início do projeto, tomei a iniciativa de levar a proposta do que seria desenvolvido para validação, acelerando a construção do backlog. Além disso, me coloquei à disposição do time para assumir qualquer task que surgisse, garantindo que nenhuma etapa ficasse parada. |
 | Curiosidade           | Minha curiosidade foi essencial para explorar novas ferramentas e técnicas utilizadas no projeto. Um exemplo disso foi o aprofundamento em Python para compreender e gerar os modelos de predição, mesmo sendo um tema novo e desafiador para mim. |
-| Comunicação assertiva | Pratiquei comunicação assertiva ao alinhar as necessidades do cliente de forma clara e objetiva. Mantive conversas estruturadas para garantir entendimento mútuo, evitar ruídos e facilitar decisões técnicas — contribuindo diretamente para um projeto final que atendeu as expectativas do cliente. |
+| Comunicação assertiva | Consegui conduzir e desenhar o escopo do projeto com o cliente de forma assertiva, não precisando de troca de mensagens ou reuniões constantes, a prova disto foi a entrega que atendeu as expectativas do cliente |
 
 
 
