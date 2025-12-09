@@ -205,7 +205,7 @@ Atuei como desenvolvedora no projeto, contribuindo em diferentes etapas do siste
 | Proatividade    | Demonstrei proatividade ao explorar por conta própria as novas ferramentas e tecnologias do projeto, como a linguagem Java e o framework JavaFX. Além disso, percebi antecipadamente a necessidade de organizar a documentação e assumi essa responsabilidade, garantindo que o time tivesse uma base clara para desenvolvimento. |
 | Comunicação     | Mantive uma comunicação constante com o time, principalmente quando surgiam dúvidas técnicas durante o desenvolvimento. Um exemplo, foi na minha primeira task, a prototipação das telas, mantive contato frequente com os colegas para garantir que o design representasse a visão coletiva da equipe. |
 | Curiosidade     | Me desafiei a atuar tanto no backend com Java quanto no frontend com JavaFX. |
-| Colaboração e Trabalho em equipe | Contribuí ativamente nas discussões sobre a estrutura das funcionalidades e no design geral do projeto |
+| Colaboração e Trabalho em equipe | Contribuí ativamente nas discussões sobre a estrutura das funcionalidades e no design geral do projeto, além de assumir frequentemente participar das elaborações das wikis aos finais de cada sprint.
 
 
 
@@ -388,9 +388,9 @@ Desenvolvi a funcionalidade responsável pelo consumo dos dados fornecidos pelo 
 
 | Soft Skill      | Onde foi aplicada |
 |-----------------|-------------------|
-| Colaboração | Trabalhei de forma colaborativa no avanço das tasks e na integração entre as frentes do projeto, como banco de dados (geração das tabelas e relacionamentos) e backend (desenvolvimento), garantindo que todas as partes evoluíssem de forma alinhada. |
-| Comunicação assertiva | As reuniões semanais foram fundamentais para desenvolver minha comunicação assertiva. Nelas, passei a estruturar melhor minhas explicações sobre o que desenvolvi, tornando mais fácil para o time entender minhas entregas, dificuldades e necessidades de apoio. |
-| Organização | A rotina de atualizações nas reuniões me ajudou a organizar minhas atividades, planejar o que seria entregue a cada sprint e acompanhar meu próprio progresso. |
+| Colaboração | Atuei de forma colaborativa no avanço das tasks, participando da prototipação das telas junto ao time para definir a navegação mais intuitiva. Também contribui no backend, desenvolvendo algumas features e garantindo alinhamento entre as frentes do projeto.|
+| Comunicação assertiva | As reuniões semanais foram fundamentais para desenvolver minha comunicação assertiva. Nelas, passei a estruturar melhor minhas explicações sobre o que desenvolvi, tornando mais fácil para o time entender minhas entregas, dificuldades e necessidades de apoio. Um exemplo foi no desenvolvimento da feature de ponto de parada: havia diferentes formas de implementá-la, e, por meio de conversas frequentes com o time, consegui expor com clareza os pontos positivos e negativos de cada abordagem, contribuindo para a melhor decisão técnica sem se prolongar.|
+| Organização | A rotina de atualizações nas reuniões semanais implementada no projeto contribuiu para aprimorar minha organização. Ela me ajudou a planejar as entregas por sprint, pois tanto meu trabalho quanto o da equipe estavam bem alinhados, permitindo estruturar melhor minhas atividades e acompanhar de forma mais eficiente meu próprio progresso e o do time. |
 
 
   <h2>Link do repositório no Github</h2>
@@ -473,9 +473,9 @@ Por fim, na disciplina de DevOps, assumi a responsabilidade pela automação do 
 | Autonomia | Desenvolvi autonomia ao assumir integralmente a responsabilidade pela automação do banco de dados, realizando a implementação de forma independente e estudando uma nova linguagem para garantir a entrega completa da solução. |
 | Autoconfiança | Reforcei minha autoconfiança ao superar desafios técnicos, como a linguagem nova que escolhemos para desenvolvimento da aplicação, sem depender constantemente do time, validando minhas escolhas e mantendo ritmo de entrega mesmo diante de dificuldades. |
 | Trabalho em equipe | O trabalho em equipe foi essencial para manter o progresso do projeto, especialmente ao lidar com divergências de opinião. Atuei para manter o foco coletivo, buscando sempre alinhar perspectivas. |
-| Paciência | Exercitei paciência ao enfrentar problemas com membros do grupo, ouvindo atentamente, entendendo o contexto de cada situação e evitando reações impulsivas em momentos de pressão. |
-| Comunicação | Melhorei minha comunicação ao expressar meus argumentos com clareza para que a ideia do projeto continuasse intacta, garantindo que minhas colocações fossem compreendidas sem gerar novos atritos. |
-| Colaboração | Ampliei minha colaboração ao cumprir os prazos estabelecidos, ajudar a manter o fluxo das entregas e me disponibilizar para apoiar o time quando existiam dependências relacionadas à tasks em desenvolvendo. |
+| Resiliência | Exercitei resiliência ao enfrentar problemas com membros do grupo, ouvindo atentamente, entendendo o contexto de cada situação e evitando reações impulsivas em momentos de pressão. |
+| Comunicação | Como atuei como Product Owner, precisei me comunicar com clareza para que a ideia do projeto continuasse intacta, garantindo que minhas colocações fossem compreendidas sem gerar novos atritos. |
+| Colaboração | Ampliei minha colaboração ao cumprir os prazos estabelecidos, apoiar o fluxo das entregas e me disponibilizar para ajudar o time sempre que surgiam dependências entre as tasks em desenvolvimento. Também contribuí documentando as sprints por meio das wikis, garantindo alinhamento e transparência no trabalho da equipe. |
 
 
   <h2>Link do repositório no Github</h2><a href="https://github.com/iNineBD/Track-5Sem2025Main">Repositório Github</a></h4>
