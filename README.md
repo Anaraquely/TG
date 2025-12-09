@@ -14,7 +14,7 @@ Meu nome é Ana Raquel, tenho 21 anos e sou estudante do 6° semestre do curso d
 Em relação à minha escolha profissional, acredito que a área de dados, dentro do cenário de Tecnologia da Informação, está em constante expansão, oferecendo diversas oportunidades de atuação. Essa versatilidade é um dos fatores que mais me atraem, pois alinha-se aos meus objetivos para o início da carreira.
 <p align="justify">
 </p>
-Atualmente, atuo como estagiária na Dom Rock, empresa com a qual tive a oportunidade de colaborar em um dos projeto acadêmico que desenvolvemos durante o 3° semetre. Essa experiência proporcionou visibilidade e foi determinante para minha seleção no processo de estágio.
+Atualmente, atuo como estagiária na Dom Rock, empresa com a qual tive a oportunidade de colaborar em um dos projeto acadêmico que desenvolvemos durante o 3° semestre. Essa experiência proporcionou visibilidade e foi determinante para minha seleção no processo de estágio.
 <p align="justify">
   </p>
 Anteriormente, trabalhei como assistente e supervisora no setor de digitação de uma empresa do ramo industrial. Nessa posição, pude desenvolver e aprimorar minhas soft skills, especialmente liderança, empatia, organização e comunicação, competências que me tornam uma profissional apta a trabalhar de forma colaborativa em equipe.
